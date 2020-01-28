@@ -1,0 +1,4 @@
+mettere nel file account.txt i login nel formato
+user-pass-email
+
+per stoppare la creazione premere ALTGR + B . Si interrompe alla fine di quello corrente
